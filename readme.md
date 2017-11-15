@@ -3,7 +3,7 @@ You can try it out on telegram - @tospace
 
 This telegram bot is a little bit more than standard "Hello World" application - it does something. It gets the information about closest launches of spacecrafts.
 
-### This library was create to illustrate a bot creation process as simple as it possible.
+### This library was created to illustrate a bot creation process as simple as it possible.
 
 I have created it as a demo for my presentation on IT NonStop Wroclaw. Links and descriptions are going to be provided when event will happen.
 
