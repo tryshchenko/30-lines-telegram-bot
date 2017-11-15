@@ -1,0 +1,16 @@
+{
+  "name": "telegram-example",
+  "version": "1.0.0",
+  "description": "Telegram bot in 30 lines of code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Tryshchenko <ensaierwa@gmail.com> (tryshchenko.com)",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "0.29.0",
+    "request": "2.83.0"
+  }
+}
