@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/)
 # 2Space - Telegram Bot in 30 Lines of Code Example
 You can try it out on telegram - @tospace
 
