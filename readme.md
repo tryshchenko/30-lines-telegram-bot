@@ -24,6 +24,8 @@ Storing cases in one folder is not a good practice either, some architecture is 
 
 ## Credentials
 Data is provided by API - https://launchlibrary.net
+Icon used for application was taken here https://www.flaticon.com/authors/smashicons
+
 Project uses 2 libraries: node-telegram-bot-api and request.
 
-Thank you for checking this page.
+### Thank you for checking this page.
